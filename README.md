@@ -81,7 +81,7 @@ pip install mysql-connector-python
 3. Run the script in your terminal or IDE:
 
 ```python3
-python main.py
+main.py
 ```
 
 4. The script will process RFID data and update the database.
