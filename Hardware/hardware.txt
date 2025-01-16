@@ -1,0 +1,6 @@
+Arduino Board
+Breadboard
+RFID Tags x2
+RFID Reader
+Jumper Cables 
+Power Cable
